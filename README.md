@@ -1,13 +1,13 @@
 
 # Hi, There...!!!
 
-## Who's StarkBak...???
+## Who's code'sGhost...???
 
-A seasoned programmer with 4 years of experience in Python and JavaScript development. I have a passion for solving complex problems and building innovative solutions. My journey in the world of coding has led me to explore various programming languages, tools, and databases.
+A seasoned programmer who has no work experience so far and he wants to be a successfull Hacker an developer.
 
 ## But...!!!
 
-My real name is Mohammad Salim Baktash and I like StarkBak name...
+My real name is Khwaja saifullah and I like code'sGhost name...
 
 ## Things I Like...
 
