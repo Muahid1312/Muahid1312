@@ -36,17 +36,17 @@
 
 ## 🚀 Projects
 
-- 🔥 Project 1 – Description
-- 🔥 Project 2 – Description
-- 🔥 Project 3 – Description
+- 🔥 Project 1 – an Advertisement webpage for a motarcycle company
+- 🔥 Project 2 – Libarary management system using python-django backend and html, css and javascript for frontend.
+- 🔥 Project 3 – Gym mangement system using laravel for backend and Tlwind, bootstrap and css for frontend.
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> • 
-  <a href="#">LinkedIn</a> • 
+  <a href="https://github.com/Muahid13121">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/saifullah-muahid-1274b9343?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> • 
   <a href="#">Portfolio</a>
 </p>
 
